@@ -5,8 +5,9 @@ import json
 import sys
 
 #authentication info
-#note: I used Akshat Mishra's consumer token and secret authentication information since my developer account 
-#was not being approved. As of July 2018, Twitter requires account review, and it was taking over a week.
+
+#note: **I used Akshat Mishra's consumer token and secret authentication information since my developer account 
+#was not being approved. As of July 2018, Twitter requires account review, and it was taking over a week, so I used his keys and tweets.*
 
 consumer_token = "fzTKr5UJm5JEYdtMGo4359QYJ"
 consumer_secret = "aVo6QqSjjNe18n3YW2uEsjEOovNMvFlrZYpGJK3WrWjeKLrX05"
